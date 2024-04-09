@@ -5,13 +5,8 @@ body{
     margin: 0;
     }
 .pageup{
-         position: fixed; 
-        /* bottom: 70px; */
-        right: 40px;
-        /* width: 70px;
-        height: 70px;
-        background: url(image/icons/arrow.png);
-        background-size: cover; */ 
+        position: fixed;      
+        right: 40px;        
         cursor: pointer;
         visibility: hidden;  
         opacity: 0;
@@ -114,9 +109,7 @@ h2{
     max-width: 390px;
     height: auto;
     
-    /* @media all and (max-width: 768px) {
-        width: 75vw;
-    } */
+    
 }
 
 .intro__img--1 {
@@ -124,11 +117,7 @@ h2{
     left: 5%;
     bottom: 10%;
     
-    /* @media all and (max-width: 768px) {
-        // top: 15vh;
-        left: 50%;
-        bottom: 50vh;
-    } */
+    
 }
 
 .intro__img--2 {
@@ -136,11 +125,7 @@ h2{
     left: 15%;
     bottom: 18%;
     
-    /* @media all and (max-width: 768px) {
-        // top: 2vh;
-        left: 70%;
-        bottom: 60vh;
-    } */
+  
 }
 .text_container{
     display: flex;
@@ -238,7 +223,7 @@ h2{
     font-family: 'Great Vibes', cursive;
 }
 .scroll_page{
-    background-image: url(image/images.jpg);
+    background-image: url(../image/images.jpg);
     background-attachment: fixed;
     background-size: cover;
     min-height: 70vh; 
