@@ -70,10 +70,11 @@ h2{
     font-family: 'Great Vibes', cursive;       
 }
 .intro{
-    background-image: url(https://www.bulgarihotels.com/.imaging/bhr-wide-big-jpg/dam/DUBAI/Bar-and-Restaurant/hoseki-restaurant/BVLGARI-Resort-Dubai---Hoseki-Counter-by-Night.jpg/jcr%3Acontent);
+    /* background-image: url(https://www.bulgarihotels.com/.imaging/bhr-wide-big-jpg/dam/DUBAI/Bar-and-Restaurant/hoseki-restaurant/BVLGARI-Resort-Dubai---Hoseki-Counter-by-Night.jpg/jcr%3Acontent); */
+    background-image: url(../image/bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position:center;
     min-height: 100%;           
     overflow: hidden;
    
